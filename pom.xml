@@ -6,7 +6,7 @@
 
     <groupId>org.r.tool</groupId>
     <artifactId>jar</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 
     <properties>
         <maven-url>http://114.55.253.170:8081</maven-url>

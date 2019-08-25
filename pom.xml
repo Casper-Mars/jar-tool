@@ -18,7 +18,6 @@
             <name>casper-local</name>
             <url>${maven-url}/repository/casper-local/</url>
         </repository>
-
     </distributionManagement>
 
     <dependencies>

@@ -9,7 +9,7 @@
     <version>1.1</version>
 
     <properties>
-        <maven-url>http://114.55.253.170:8081</maven-url>
+        <maven-url>http://114.55.253.170</maven-url>
     </properties>
 
     <distributionManagement>
